@@ -1,5 +1,5 @@
 export interface GetCalendarResults {
-    results: Calendar[];
+    Events: Calendar[];
 }
 
 export interface Calendar {
