@@ -1,16 +1,11 @@
 {
-    "results": [
-        {
-            "id": 1,
-            "task1": "go to gym",
-            "task2": "study",
-            "task3": "go to work"
-        },
-        {
-            "id": 2,
-            "task1": "work",
-            "task2": "sleep",
-            "task3": "eat"
-        }
-    ]
+  "Events": [
+      {
+        "id": "1",
+    "summary": "Manually added event",
+    "start": { "dateTime": "2022-05-12T13:00:00+05:30", "timeZone": "Europe/Finland" },
+    "end": { "dateTime": "2022-05-12T14:00:00+05:30", "timeZone": "Europe/Finland" },
+    "description": "This event was created by Node.js"
+  }
+  ]
 }
